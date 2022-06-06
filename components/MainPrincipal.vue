@@ -7,8 +7,8 @@
           seus Pets
         </h1>
         <div class="flex gap-5 mt-8">
-          <button class="px-12 py-3 bg-slate-400">serviços</button>
-          <button class="px-12 py-3 bg-slate-400">sobre nós</button>
+          <button class="px-14 py-3 font-semibold bg-slate-400 btn-servicos">Serviços</button>
+          <button class="px-14 py-3 font-semibold btn-sobre">Sobre nós</button>
         </div>
       </div>
     </section>
@@ -18,5 +18,17 @@
 <style scoped>
 .cor-cinza {
   color: #252525;
+}
+
+.btn-servicos {
+  background-color: #134c5f;
+  border-radius: 20px;
+  color: white;
+  margin-bottom: 500px;
+}
+.btn-sobre:hover {
+  background-color: #b7e2d8;
+  border-radius: 20px;
+  transition: 0.3s;
 }
 </style>

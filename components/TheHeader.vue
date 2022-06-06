@@ -3,7 +3,7 @@
     <div class="hidden sm:block"></div>
     <div class="mx-8">
       <div class="max-w-7xl mx-auto sm:py-3">
-        <div class="flex justify-center items-center mt-4 sm:mt-0 lg:justify-between">
+        <div class="flex justify-center items-center sm:mt-0 lg:justify-between">
           <NuxtLink to="/" class="logo"><img src="../assets/img/logo.png" alt="logo" width="150" /></NuxtLink>
 
           <div class="flex space-x-7">
