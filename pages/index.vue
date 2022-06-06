@@ -3,6 +3,7 @@
     <TheHeader />
     <MainPrincipal />
   </div>
+  <Clientes />
   <TheFooter />
 </template>
 
@@ -14,7 +15,7 @@ export default {};
 .bg-dog {
   background-image: url(../assets/img/bg.jpg);
   background-repeat: no-repeat;
-  background-position: left;
-  height: 100vh;
+  background-position: left bottom;
+  background-size: cover;
 }
 </style>

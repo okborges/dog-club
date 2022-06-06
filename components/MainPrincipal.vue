@@ -1,5 +1,5 @@
 <template>
-  <main class="mx-8">
+  <main class="mx-8 py-20">
     <section class="mx-auto mt-13 sm:mt-28 container">
       <div>
         <h1 class="text-5xl text-center lg:text-left sm:text-6xl font-bold cor-cinza">
@@ -37,5 +37,9 @@
 
 .container {
   max-width: 1600px;
+}
+.img-logos {
+  height: 40px;
+  margin: 20px 40px;
 }
 </style>
