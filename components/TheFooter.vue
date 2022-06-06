@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center mt-20 mb-14">
+  <div class="text-center mt-20">
     <p class="bg-footer p-4 text-white">
       Copyright © 2022 Borges.<br class="sm:hidden" />
       Todos os direitos reservados.

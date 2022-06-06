@@ -4,6 +4,7 @@
     <MainPrincipal />
   </div>
   <Clientes />
+  <AboutUs />
   <TheFooter />
 </template>
 
