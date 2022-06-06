@@ -14,6 +14,7 @@ export default {};
 .bg-dog {
   background-image: url(../assets/img/bg.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: left;
+  height: 100vh;
 }
 </style>

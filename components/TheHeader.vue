@@ -2,9 +2,9 @@
   <header>
     <div class="hidden sm:block"></div>
     <div class="mx-8">
-      <div class="max-w-7xl mx-auto sm:py-3">
+      <div class="mx-auto py-8 container-header">
         <div class="flex justify-center items-center sm:mt-0 lg:justify-between">
-          <NuxtLink to="/" class="logo"><img src="../assets/img/logo.png" alt="logo" width="150" /></NuxtLink>
+          <NuxtLink to="/" class="logo"><img src="../assets/img/logo.png" alt="logo" width="200" /></NuxtLink>
 
           <div class="flex space-x-7">
             <nav class="hidden lg:flex">
@@ -44,5 +44,9 @@
 .bloquinho li:hover {
   background-color: #138eb8;
   transition: 0.3s;
+}
+
+.container-header {
+  max-width: 1700px;
 }
 </style>

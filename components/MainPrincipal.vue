@@ -1,14 +1,18 @@
 <template>
   <main class="mx-8">
-    <section class="max-w-7xl mx-auto sm:py-3">
+    <section class="mx-auto mt-13 sm:mt-28 container">
       <div>
-        <h1 class="text-6xl font-bold cor-cinza">
+        <h1 class="text-5xl text-center lg:text-left sm:text-6xl font-bold cor-cinza">
           Cuidando de<br />
           seus Pets
         </h1>
-        <div class="flex gap-5 mt-8">
-          <button class="px-14 py-3 font-semibold bg-slate-400 btn-servicos">Serviços</button>
-          <button class="px-14 py-3 font-semibold btn-sobre">Sobre nós</button>
+        <p class="py-8 text-center lg:text-left">
+          Quem tem filhos peludos sabe o quanto é<br />
+          recompensador, refeições e descanso!
+        </p>
+        <div class="flex gap-5 justify-center lg:justify-start">
+          <button class="px-10 py-3 sm:px-14 sm:py-3 font-semibold btn-servicos">Serviços</button>
+          <button class="px-10 py-3 sm:px-14 sm:py-3 font-semibold btn-sobre">Sobre nós</button>
         </div>
       </div>
     </section>
@@ -24,11 +28,14 @@
   background-color: #134c5f;
   border-radius: 20px;
   color: white;
-  margin-bottom: 500px;
 }
 .btn-sobre:hover {
   background-color: #b7e2d8;
   border-radius: 20px;
   transition: 0.3s;
+}
+
+.container {
+  max-width: 1600px;
 }
 </style>
