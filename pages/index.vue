@@ -5,6 +5,8 @@
   </div>
   <Clientes />
   <AboutUs />
+  <Missao />
+  <Servicos />
   <TheFooter />
 </template>
 
