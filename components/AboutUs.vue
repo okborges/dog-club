@@ -1,8 +1,8 @@
 <template>
-  <section class="mx-auto container my-12" id="sobre">
+  <section class="mx-auto container my-12">
     <div class="flex items-center mx-8 justify-around">
       <div class="max-w-lg bg-patinha">
-        <p class="sobre">SOBRE NÓS</p>
+        <p class="sobre font-semibold text-2xl">SOBRE NÓS</p>
         <h2 class="text-4xl font-bold my-8">
           Os Pets vivem o dia,<br />
           a hora, cada momento !
@@ -12,7 +12,7 @@
           molestias delectus voluptates modi recusandae magnam reiciendis expedita porro maxime iure eius corporis,
           tempora iusto autem?
         </p>
-        <div class="mt-8">
+        <div class="mt-10">
           <a href="#TheContato" class="py-3 px-6 btn-servicos font-semibold">Entre em Contato</a>
         </div>
       </div>

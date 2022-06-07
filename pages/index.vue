@@ -3,8 +3,10 @@
     <TheHeader />
     <MainPrincipal />
   </div>
-  <Clientes />
-  <AboutUs />
+  <div id="sobre">
+    <Clientes />
+    <AboutUs />
+  </div>
   <Missao />
   <Servicos />
   <GaleriaClientes />

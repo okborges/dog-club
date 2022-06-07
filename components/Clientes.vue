@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-wrap justify-center mt-20">
+  <div class="flex flex-wrap justify-center pt-20">
     <img class="img-logos" src="https://i.imgur.com/T17jpWe.png" alt="" />
     <img class="img-logos" src="https://i.imgur.com/rp9Gl75.png" alt="" />
     <img class="img-logos" src="https://i.imgur.com/Mje6KSt.png" alt="" />

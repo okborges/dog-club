@@ -28,11 +28,17 @@
   background-color: #134c5f;
   border-radius: 20px;
   color: white;
+  border: #134c5f solid 2px;
+}
+.btn-sobre {
+  background-color: #fff;
+  border-radius: 20px;
+  border: #fff solid 2px;
 }
 .btn-sobre:hover {
   background-color: #b7e2d8;
-  border-radius: 20px;
   transition: 0.3s;
+  border: #134c5f solid 2px;
 }
 
 .container {
