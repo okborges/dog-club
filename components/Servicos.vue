@@ -3,17 +3,12 @@
     <div class="flex items-center mx-8 justify-around">
       <img class="hidden md:flex" src="https://i.imgur.com/OEmasw8.png" alt="" width="400" />
       <div class="max-w-lg bg-patinha">
-        <p class="sobre">SERVIÇOS</p>
         <h2 class="text-4xl font-bold my-8">Os Cães não são a nossa vida, mas eles fazem a nossa vida melhor</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid doloremque non harum voluptas excepturi
           molestias delectus voluptates modi recusandae magnam reiciendis expedita porro maxime iure eius corporis,
           tempora iusto autem?
         </p>
-        <div class="mt-8 flex gap-5">
-          <button class="py-3 px-14 btn-servicos font-semibold">Serviços</button>
-          <button class="p-3 font-semibold btn-sobre">Entre em Contato</button>
-        </div>
       </div>
     </div>
   </section>

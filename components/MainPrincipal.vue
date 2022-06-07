@@ -11,8 +11,8 @@
           recompensador, refeições e descanso!
         </p>
         <div class="flex gap-5 justify-center lg:justify-start">
-          <button class="px-10 py-3 sm:px-14 sm:py-3 font-semibold btn-servicos">Serviços</button>
-          <button class="px-10 py-3 sm:px-14 sm:py-3 font-semibold btn-sobre">Sobre nós</button>
+          <a href="#servico" class="px-10 py-3 sm:px-14 sm:py-3 font-semibold btn-servicos">Serviços</a>
+          <a href="#sobre" class="px-10 py-3 sm:px-14 sm:py-3 font-semibold btn-sobre">Sobre nós</a>
         </div>
       </div>
     </section>

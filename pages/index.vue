@@ -7,6 +7,8 @@
   <AboutUs />
   <Missao />
   <Servicos />
+  <GaleriaClientes />
+  <Contato />
   <TheFooter />
 </template>
 

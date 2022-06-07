@@ -1,5 +1,5 @@
 <template>
-  <section class="mx-auto container my-12">
+  <section class="mx-auto container my-12" id="sobre">
     <div class="flex items-center mx-8 justify-around">
       <div class="max-w-lg bg-patinha">
         <p class="sobre">SOBRE NÓS</p>
@@ -12,9 +12,8 @@
           molestias delectus voluptates modi recusandae magnam reiciendis expedita porro maxime iure eius corporis,
           tempora iusto autem?
         </p>
-        <div class="mt-8 flex gap-5">
-          <button class="py-3 px-14 btn-servicos font-semibold">Serviços</button>
-          <button class="p-3 font-semibold btn-sobre">Entre em Contato</button>
+        <div class="mt-8">
+          <a href="#TheContato" class="py-3 px-6 btn-servicos font-semibold">Entre em Contato</a>
         </div>
       </div>
       <img class="hidden md:flex" src="https://i.imgur.com/Hb12Fc6.png" alt="" width="400" />
@@ -38,11 +37,7 @@ export default {};
   border-radius: 20px;
   color: white;
 }
-.btn-sobre:hover {
-  background-color: #b7e2d8;
-  border-radius: 20px;
-  transition: 0.3s;
-}
+
 
 .bg-patinha {
   background-image: url(https://i.imgur.com/frs46sx.png);
