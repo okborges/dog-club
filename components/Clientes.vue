@@ -1,12 +1,12 @@
 <template>
   <div class="flex flex-wrap justify-center mt-20">
-    <img class="img-logos" src="../assets/img/logo-1.png" alt="" />
-    <img class="img-logos" src="../assets/img/logo-2.png" alt="" />
-    <img class="img-logos" src="../assets/img/logo-3.png" alt="" />
-    <img class="img-logos" src="../assets/img/logo-4.png" alt="" />
-    <img class="img-logos" src="../assets/img/logo-5.png" alt="" />
-    <img class="img-logos" src="../assets/img/logo-6.png" alt="" />
-    <img class="img-logos" src="../assets/img/logo-7.png" alt="" />
+    <img class="img-logos" src="https://i.imgur.com/T17jpWe.png" alt="" />
+    <img class="img-logos" src="https://i.imgur.com/rp9Gl75.png" alt="" />
+    <img class="img-logos" src="https://i.imgur.com/Mje6KSt.png" alt="" />
+    <img class="img-logos" src="https://i.imgur.com/HOYy2gP.png" alt="" />
+    <img class="img-logos" src="https://i.imgur.com/5jQQEKw.png" alt="" />
+    <img class="img-logos" src="https://i.imgur.com/Z37S2AE.png" alt="" />
+    <img class="img-logos" src="https://i.imgur.com/G7novBj.png" alt="" />
   </div>
 </template>
 

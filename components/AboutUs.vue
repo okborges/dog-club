@@ -1,9 +1,9 @@
 <template>
   <section class="mx-auto container my-12">
     <div class="flex items-center mx-8 justify-around">
-      <div class="max-w-lg">
+      <div class="max-w-lg bg-patinha">
         <p class="sobre">SOBRE NÓS</p>
-        <h2 class="text-4xl font-bold my-3">
+        <h2 class="text-4xl font-bold my-8">
           Os Pets vivem o dia,<br />
           a hora, cada momento !
         </h2>
@@ -17,7 +17,7 @@
           <button class="p-3 font-semibold btn-sobre">Entre em Contato</button>
         </div>
       </div>
-      <img class="hidden md:flex" src="../assets/img/dog-1.png" alt="" width="400" />
+      <img class="hidden md:flex" src="https://i.imgur.com/Hb12Fc6.png" alt="" width="400" />
     </div>
   </section>
 </template>
@@ -42,5 +42,12 @@ export default {};
   background-color: #b7e2d8;
   border-radius: 20px;
   transition: 0.3s;
+}
+
+.bg-patinha {
+  background-image: url(https://i.imgur.com/frs46sx.png);
+  background-size: 600px;
+  background-repeat: no-repeat;
+  background-position-x: 320px;
 }
 </style>

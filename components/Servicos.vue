@@ -1,10 +1,10 @@
 <template>
   <section class="mx-auto container my-12">
     <div class="flex items-center mx-8 justify-around">
-      <img class="hidden md:flex" src="../assets/img/dog-2.png" alt="" width="400" />
-      <div class="max-w-lg">
+      <img class="hidden md:flex" src="https://i.imgur.com/OEmasw8.png" alt="" width="400" />
+      <div class="max-w-lg bg-patinha">
         <p class="sobre">SERVIÇOS</p>
-        <h2 class="text-4xl font-bold my-3">Os Cães não são a nossa vida, mas eles fazem a nossa vida melhor</h2>
+        <h2 class="text-4xl font-bold my-8">Os Cães não são a nossa vida, mas eles fazem a nossa vida melhor</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid doloremque non harum voluptas excepturi
           molestias delectus voluptates modi recusandae magnam reiciendis expedita porro maxime iure eius corporis,
@@ -39,5 +39,11 @@ export default {};
   background-color: #b7e2d8;
   border-radius: 20px;
   transition: 0.3s;
+}
+.bg-patinha {
+  background-image: url(https://i.imgur.com/frs46sx.png);
+  background-size: 600px;
+  background-repeat: no-repeat;
+  background-position-x: 320px;
 }
 </style>

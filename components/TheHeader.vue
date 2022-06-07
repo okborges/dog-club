@@ -4,7 +4,7 @@
     <div class="mx-8">
       <div class="mx-auto py-8 container-header">
         <div class="flex justify-center items-center sm:mt-0 lg:justify-between">
-          <NuxtLink to="/" class="logo"><img src="../assets/img/logo.png" alt="logo" width="200" /></NuxtLink>
+          <NuxtLink to="/" class="logo"><img src="https://i.imgur.com/dAO6xqB.png" alt="logo" width="200" /></NuxtLink>
 
           <div class="flex space-x-7">
             <nav class="hidden lg:flex">

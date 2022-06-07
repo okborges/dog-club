@@ -16,7 +16,7 @@ export default {};
 
 <style scoped>
 .bg-dog {
-  background-image: url(../assets/img/bg.jpg);
+  background-image: url(https://i.imgur.com/ls0n8aN.jpg);
   background-repeat: no-repeat;
   background-position: left bottom;
   background-size: cover;
