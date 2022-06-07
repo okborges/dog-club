@@ -15,6 +15,9 @@ export default {};
 </script>
 
 <style scoped>
+* {
+  font-family: 'Poppins', sans-serif;
+}
 .bg-dog {
   background-image: url(https://i.imgur.com/ls0n8aN.jpg);
   background-repeat: no-repeat;
